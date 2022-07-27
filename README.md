@@ -34,6 +34,10 @@ The MAPE error for the model is 9.31%.
 
 ![alt text](https://github.com/intan7/Covid19-Prediction/blob/main/static/result_ss.png)
 
+And here's the actual vs predicted graph:
+
+![alt text](https://github.com/intan7/Covid19-Prediction/blob/main/static/actualvspredict.png)
+
 ## Powered by
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
